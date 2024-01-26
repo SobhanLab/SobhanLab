@@ -1,18 +1,17 @@
 <head>
     <meta name="google-site-verification" content="YWmR0QQAyWyx7pUHkMzhyJMMrUCHh2ZmnAeOYE2Sbz0" />
   </head>
-<h1 align="center">Hi 👋, I'm Kamrul Hossain</h1>
-<!--<h3 align="center">A frontend developer from BANGLADESH</h3>-->
+<h1 align="center">Hi 👋, I'm Abdus Sobhan</h1>
+<!--<h3 align="center">A Content Writer from BANGLADESH</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrullab&label=Profile%20views&color=0e75b6&style=flat" alt="EliteKamrul" /> </p>
-
-<p align="left"> <a href="https://twitter.com/elitekamrul" target="blank"><img src="https://img.shields.io/twitter/follow/Elitekamrul?logo=twitter&style=for-the-badge" alt="EliteKamrul" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanLab&label=Profile%20views&color=0e75b6&style=flat" alt="Sobhan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elitekamrul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elitekamrul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamrulofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kamrulofficial" height="30" width="40" /></a>
-<a href="https://facebook.com/elitekamrul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="elitekamrul" height="30" width="40" /></a>
+
+<a href="https://facebook.com/Sobhan762426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sobhan762426" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sobhan762426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sobhan762426" height="30" width="40" /></a>
+<a href="https://instagram.com/Sobhan762426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sobhan762426" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
