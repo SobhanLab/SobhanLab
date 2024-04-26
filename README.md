@@ -2,7 +2,7 @@
     
   </head>
 <h1 align="center">Hi 👋, I'm Abdus Sobhan</h1>
-<!--<h3 align="center">A Content Writer from BANGLADESH</h3>-->
+<!--<h3 align="center"> Undergraduate Student of Computer Science & Engineering </h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanLab&label=Profile%20views&color=0e75b6&style=flat" alt="Sobhan" /> </p>
 
