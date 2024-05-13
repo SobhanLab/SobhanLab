@@ -13,6 +13,8 @@ Deep Learning, and Blockchain. I am eager to contribute to the
 intersection of cutting-edge technology and real-world applications, and
  I am committed to continuous learning and growth.</span></p>
 
+ 🏠&nbsp; <b>Living:</b> Rajshahi, Bangladesh<br />
+
  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">&nbsp;Languages:</h3><a aria-label="Permalink: Languages:" class="anchor" href="https://github.com/anisul-Islam#languages" id="user-content-languages"></a></div><ul dir="auto"><li>🇧🇩 Bangla : Native&nbsp;</li><li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate<br /></li></ul>
 
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Sports / Game / Activities / Hobby:</h3><div class="heading-element" style="text-align: left;"><span style="font-weight: normal;">🏏 Cricket, ⚽ Football,&nbsp; ♟️ Chess, 🚶‍♂️ Walking</span></div></div><p><span aria-hidden="true">&nbsp;</span></p><p><span aria-hidden="true">&nbsp;</span></p>
