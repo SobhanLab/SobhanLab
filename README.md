@@ -2,7 +2,9 @@
     
   </head>
 <h1 align="center">Hi 👋, I'm Abdus Sobhan</h1>
-<!--<h3 align="center"> Undergraduate Student of Computer Science & Engineering </h3>-->
+<h3 align="center">Undergraduate Student of Computer Science &amp; Engineering.<br /></h3>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SobhanLab&label=Profile%20views&color=0e75b6&style=flat" alt="Sobhan" /> </p>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">👨‍🏫 &nbsp; About Me</h3><a aria-label="Permalink: 👨‍🏫   About Me" class="anchor" href="https://github.com/anisul-Islam#--about-me" id="user-content---about-me"></a></div><p><span aria-hidden="true">I am an aspiring technologist driven by a 
 passion for innovation and problem-solving. I am pursuing a Bachelor of 
 Science in Computer Science and Engineering at Varendra University. I 
@@ -11,7 +13,10 @@ Deep Learning, and Blockchain. I am eager to contribute to the
 intersection of cutting-edge technology and real-world applications, and
  I am committed to continuous learning and growth.</span></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SobhanLab&label=Profile%20views&color=0e75b6&style=flat" alt="Sobhan" /> </p>
+ <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">&nbsp;Languages:</h3><a aria-label="Permalink: Languages:" class="anchor" href="https://github.com/anisul-Islam#languages" id="user-content-languages"></a></div><ul dir="auto"><li>🇧🇩 Bangla : Native&nbsp;</li><li>🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate<br /></li></ul>
+
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Sports / Game / Activities / Hobby:</h3><div class="heading-element" style="text-align: left;"><span style="font-weight: normal;">🏏 Cricket, ⚽ Football,&nbsp; ♟️ Chess, 🚶‍♂️ Walking</span></div></div><p><span aria-hidden="true">&nbsp;</span></p><p><span aria-hidden="true">&nbsp;</span></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
