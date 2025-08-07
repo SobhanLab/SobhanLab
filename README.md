@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Abdus Sobhan</h1>
 <h3 align="center">Undergraduate Student of Computer Science &amp; Engineering.<br /></h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SobhanLab&label=Profile%20views&color=0e75b6&style=flat" alt="Sobhan" /> </p>
-
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">
 👨‍🏫 &nbsp; About Me</h3><a aria-label="Permalink: 👨‍🏫   About Me" class="anchor" href="https://github.com/anisul-Islam#--about-me" id="user-content---about-me"></a></div><p><span aria-hidden="true">I am an aspiring technologist driven by a 
 passion for innovation and problem-solving. I am pursuing a Bachelor of 
